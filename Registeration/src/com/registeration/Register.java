@@ -6,7 +6,7 @@ public String emailId;
 public String mobno;
 public String uid;
 public String pwd;
-
+//update
 public String getUid() {
 	return uid;
 }
