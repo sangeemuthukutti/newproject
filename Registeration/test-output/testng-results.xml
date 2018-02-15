@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80" started-at="2018-02-07T05:59:44Z" finished-at="2018-02-07T05:59:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80" started-at="2018-02-07T05:59:44Z" finished-at="2018-02-07T05:59:44Z">
+      <class name="com.registeration.TestingNg">
+        <test-method status="PASS" signature="registerUserTest()[pri:0, instance:com.registeration.TestingNg@32e6e9c3]" name="registerUserTest" duration-ms="15" started-at="2018-02-07T11:29:44Z" finished-at="2018-02-07T11:29:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUserTest -->
+        <test-method status="PASS" signature="loggingIn()[pri:2, instance:com.registeration.TestingNg@32e6e9c3]" name="loggingIn" duration-ms="3" started-at="2018-02-07T11:29:44Z" finished-at="2018-02-07T11:29:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingIn -->
+        <test-method status="PASS" signature="forgetUP()[pri:3, instance:com.registeration.TestingNg@32e6e9c3]" name="forgetUP" duration-ms="4" started-at="2018-02-07T11:29:44Z" finished-at="2018-02-07T11:29:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgetUP -->
+        <test-method status="PASS" signature="resettingPw()[pri:4, instance:com.registeration.TestingNg@32e6e9c3]" name="resettingPw" duration-ms="3" started-at="2018-02-07T11:29:44Z" finished-at="2018-02-07T11:29:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resettingPw -->
+      </class> <!-- com.registeration.TestingNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
